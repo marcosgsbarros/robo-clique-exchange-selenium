@@ -2,7 +2,7 @@ from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 import time
 
-chave_de_seguranca = ['expand','scout','sport','news','soda','weapon','rack','record','forward','diagram','scrub','involve','131412TI','131412TI']
+chave_de_seguranca = ['expand','scout','sport','news','soda','weapon','rack','record','forward','quark','scrub','involve','131412','131412']
 lista_formulario1 = ['import-srp__srp-word-0','import-srp__srp-word-1',
                 'import-srp__srp-word-2','import-srp__srp-word-3',
                 'import-srp__srp-word-4','import-srp__srp-word-5',
