@@ -1,0 +1,401 @@
+1651494610128	geckodriver	INFO	Listening on 127.0.0.1:6167
+1651494612217	mozrunner::runner	INFO	Running command: "F:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile2NZTDW"
+1651494613358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile2NZTDW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6168/devtools/browser/0c72c626-245d-4269-b90e-6e48fcc33018
+1651494617397	Marionette	INFO	Listening on port 6192
+Read port: 6192
+1651494617462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://3bb55923-a0b0-47d7-b191-57eb350a8465/ui-6.js, line 17: unreachable code after return statement
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+1651495143343	geckodriver	INFO	Listening on 127.0.0.1:6397
+1651495145405	mozrunner::runner	INFO	Running command: "F:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofileKrh6xI"
+1651495146243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofileKrh6xI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6398/devtools/browser/e1c5a715-d1e5-4c81-9500-3793db114a19
+1651495150340	Marionette	INFO	Listening on port 6426
+Read port: 6426
+1651495150410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+1651495167440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651495170759	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/12.569d0135.chunk.js, line 1: Error: Invalid JSON RPC response: ""
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/12.569d0135.chunk.js, line 1: Error: Invalid JSON RPC response: ""
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/12.569d0135.chunk.js, line 1: Error: Invalid JSON RPC response: ""
+JavaScript error: https://app.position.exchange/static/js/12.569d0135.chunk.js, line 1: TypeError: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+JavaScript error: https://app.position.exchange/static/js/12.569d0135.chunk.js, line 1: TypeError: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: i is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: d is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+1651501081651	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651501082373	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://9155ae53-10d0-4d76-bfe0-054406d3bc05/ui-6.js, line 17: unreachable code after return statement
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+1651526084800	geckodriver	INFO	Listening on 127.0.0.1:1819
+1651526086854	mozrunner::runner	INFO	Running command: "F:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofileSdzaZN"
+1651526087317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofileSdzaZN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1820/devtools/browser/e6de9e63-1a64-4c73-bddf-6f3c4d0da11b
+1651526090582	Marionette	INFO	Listening on port 1843
+Read port: 1843
+1651526090689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://40260525-bf19-4784-a6dc-44f81fcc97f7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://40260525-bf19-4784-a6dc-44f81fcc97f7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://40260525-bf19-4784-a6dc-44f81fcc97f7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://40260525-bf19-4784-a6dc-44f81fcc97f7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://40260525-bf19-4784-a6dc-44f81fcc97f7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://40260525-bf19-4784-a6dc-44f81fcc97f7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://40260525-bf19-4784-a6dc-44f81fcc97f7/ui-6.js, line 17: unreachable code after return statement
+1651526230052	Marionette	INFO	Stopped listening on port 1843
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 13676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651546005062	geckodriver	INFO	Listening on 127.0.0.1:27159
+1651546007098	mozrunner::runner	INFO	Running command: "F:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "27160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofileYQMuEm"
+1651546008034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofileYQMuEm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:27160/devtools/browser/8f70fedf-9313-4218-a8d1-19ed105a0841
+1651546011999	Marionette	INFO	Listening on port 27183
+Read port: 27183
+1651546012160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://0390fcbf-c958-4737-a3b4-81f66674a6a8/ui-6.js, line 17: unreachable code after return statement
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+1651546057378	Marionette	INFO	Stopped listening on port 27183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651592074048	geckodriver	INFO	Listening on 127.0.0.1:4826
+1651592076084	mozrunner::runner	INFO	Running command: "F:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofiledRibpC"
+1651592076520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofiledRibpC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4827/devtools/browser/2dcdb3bf-be05-441c-9dd8-96358a0a2ed1
+1651592079744	Marionette	INFO	Listening on port 4853
+Read port: 4853
+1651592079841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+1651592194325	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://fec529e3-e33e-4a02-bcf3-f4f16e6106c8/ui-6.js, line 17: unreachable code after return statement
+1651592246874	Marionette	INFO	Stopped listening on port 4853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1651706368106	geckodriver	INFO	Listening on 127.0.0.1:2708
+1651706370184	mozrunner::runner	INFO	Running command: "F:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2709" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile6w2Zgo"
+1651706372569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile6w2Zgo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2709/devtools/browser/ceaca2ba-c5a2-43dc-9413-2a721b53b391
+1651706379381	Marionette	INFO	Listening on port 2714
+1651706379764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://b7507d2b-8147-496d-b3ac-a7aa00c4c83a/ui-6.js, line 17: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: undefined, line 0: Error: Invalid window ID: 30
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+JavaScript error: https://app.position.exchange/static/js/main.4b47fd51.chunk.js, line 1: TypeError: t is undefined
+1651712477756	Marionette	INFO	Stopped listening on port 2714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
